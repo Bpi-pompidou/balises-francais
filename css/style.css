@@ -1,0 +1,94 @@
+body {
+  font-family: 'Amiko', sans-serif;
+  font-size: 13px;
+  color:  #1a1a1a;
+  
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  font-size: 22px;
+  color:  #1a1a1a;
+}
+
+
+
+#arrow img {
+position: relative;
+height: 20px;
+width : 20px;
+top : -5px;
+right : 13px;
+}
+
+#container {
+margin: 0 auto;
+width: 650px;
+
+}
+
+#timeline {
+width: 520px;
+border-left: 5px dotted #a1a4a8;
+margin-left: 100px;
+}
+
+.bloc {
+  position: relative;
+  width: 100%;
+  right: 68px;
+  margin-top: 40px;
+}
+
+.bloc img {
+  border-radius: 50%;
+  height: 110px;
+  width: 110px;
+  border: 4px white solid;
+  box-shadow: 2px 1px 2px #a1a4a8;
+
+}
+
+.align {
+}
+
+.icon {
+float: left;
+width: 25%;
+position: relative;
+top: 40px;
+
+}
+
+.card {
+float: right;
+width: 75%;
+
+
+}
+
+.text {
+background-color: #d1e0e0;
+box-shadow: 2px 1px 2px #a1a4a8;
+padding: 10px 20px 10px 20px ;
+border-radius: 3px;
+font-style: italic;
+font-weight: bold;
+font-size: 12px;
+}
+
+.text em {
+font-style: normal;
+}
+
+.clear {
+clear: both;
+}
+
+.bottom {
+height: 100px;
+}
+
+.quote {
+
+}
